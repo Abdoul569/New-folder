@@ -19,4 +19,4 @@ printf("Number of bits set to 0: %d\n", count_of_zeros);
 
 
     return 0;
-}
+} // the difference between using unsigned char and unsigned int is that unsigned char only allows bitwise operations on 8 bits, while unsigned int allows for 32-bit operations.
